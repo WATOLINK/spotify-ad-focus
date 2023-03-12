@@ -7,7 +7,7 @@ root.title('Spotify Ad Focus')
 root.attributes('-fullscreen', True)
 
 pygame.mixer.init()  # initialise the pygame
-#hello
+
 
 def play():
     pygame.mixer.music.load("duck.mp3")
